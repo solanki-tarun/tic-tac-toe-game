@@ -6,7 +6,7 @@ Play with your friend and enjoy this classic game in your browser!
 ---
 
 ## 🚀 Live Demo
-
+ https://solanki-tarun.github.io/tic-tac-toe-game/
 
 ---
 
