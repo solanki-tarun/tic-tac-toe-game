@@ -51,7 +51,9 @@ tic-tac-toe-game/
 
 ## 📸 Screenshot
 
-*(Add your game screenshot here)*
+## 📸 Screenshot
+
+![Game Screenshot](game.png,game2.png)
 
 ---
 
