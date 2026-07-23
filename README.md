@@ -49,14 +49,13 @@ tic-tac-toe-game/
 
 ---
 
-## 📸 Screenshot
-
-## 📸 Screenshot
 
 ## 📸 Screenshot
 
 ![Game Screenshot](game.png)
 ---
+![Game Screenshot](game2.png)
+
 
 ## 💡 Future Improvements
 
