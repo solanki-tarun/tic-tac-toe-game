@@ -53,8 +53,9 @@ tic-tac-toe-game/
 
 ## 📸 Screenshot
 
-![Game Screenshot](game.png,game2.png)
+## 📸 Screenshot
 
+![Game Screenshot](game.png)
 ---
 
 ## 💡 Future Improvements
