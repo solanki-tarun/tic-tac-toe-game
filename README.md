@@ -70,7 +70,7 @@ tic-tac-toe-game/
 
 **Tarun Solanki**
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/solanki-tarun
 
 ---
 
