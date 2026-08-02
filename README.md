@@ -66,6 +66,10 @@ tic-tac-toe-game/
 
 ---
 
+## Future Plan
+-- Add Some New Feature
+-- New Style
+
 ## 👨‍💻 Author
 
 **Tarun Solanki**
