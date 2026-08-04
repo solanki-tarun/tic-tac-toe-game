@@ -70,6 +70,7 @@ tic-tac-toe-game/
 -- Add Some New Feature
 -- New Style
 -- update day 1
+-- update game
 
 ## 👨‍💻 Author
 
