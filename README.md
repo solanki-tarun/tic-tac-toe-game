@@ -69,8 +69,7 @@ tic-tac-toe-game/
 ## Future Plan
 -- Add Some New Feature
 -- New Style
--- update day 1
--- update game
+
 
 ## 👨‍💻 Author
 
