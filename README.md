@@ -38,6 +38,8 @@ tic-tac-toe-game/
 ```
 
 ---
+## Update 
+-- day 1
 
 ## 🧠 How the Game Works
 
