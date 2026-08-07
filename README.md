@@ -40,6 +40,7 @@ tic-tac-toe-game/
 ---
 ## Update 
 -- day 1
+-- day 2
 
 ## 🧠 How the Game Works
 
